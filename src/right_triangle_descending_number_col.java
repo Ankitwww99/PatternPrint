@@ -7,7 +7,7 @@
  */
 import java.util.Scanner;
 
-public class descending_number_pattern_col {
+public class right_triangle_descending_number_col {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=5;

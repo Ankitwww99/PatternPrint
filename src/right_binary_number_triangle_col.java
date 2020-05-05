@@ -4,12 +4,11 @@
 101
 1010
 10101
-
  */
 
 import java.util.Scanner;
 
-public class binary_number_col_triangle {
+public class right_binary_number_triangle_col {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=5;
