@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class diamond_hollow {
+public class diamond_hollow_star {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         //int n=sc.nextInt();
