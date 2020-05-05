@@ -1,3 +1,12 @@
+/*
+
+    *
+   * *
+  *   *
+ *     *
+*********
+
+*/
 import java.util.Scanner;
 
 public class triangle_star {

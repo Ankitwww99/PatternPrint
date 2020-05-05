@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class simple_number {
+public class right_numeric_triangle_col {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=5;
