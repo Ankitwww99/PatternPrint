@@ -1,4 +1,5 @@
 /*
+Diamond alphabetic hollow
      A
     B B
    C   C
