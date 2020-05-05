@@ -1,4 +1,5 @@
 /*
+Diamond N=number Solid
     1
    212
   32123
@@ -13,7 +14,7 @@
 
 import java.util.Scanner;
 
-public class diamond_number_pattern {
+public class diamond_number_solid {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=5;
