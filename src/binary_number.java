@@ -5,6 +5,7 @@
 01010
 10101
  */
+
 import java.util.Scanner;
 
 public class binary_number {
