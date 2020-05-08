@@ -11,7 +11,6 @@ Diamond N=number Solid
     1
 */
 
-
 import java.util.Scanner;
 
 public class diamond_number_solid {
